@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "serviceId": "kv27x80qvi",
+    "name": "エアコン&レンジA",
+    "amount": "40000"
+  },
+  {
+    "id": "2",
+    "serviceId": "vjql7d0g8f",
+    "name": "浴室&洗濯機セットA",
+    "amount": "25000"
+  },
+  {
+    "id": "3",
+    "serviceId": "jd9ve78r2a",
+    "name": "水まわり3点セットA",
+    "amount": "30000"
+  }
+]
