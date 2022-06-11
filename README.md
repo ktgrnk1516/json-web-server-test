@@ -20,5 +20,3 @@ http://localhost:3001/ で立ち上がる
 仮想 API として、テストで定義された API の要件に沿ったデータを定義。
 db.json に格納されている。
 # json-web-server-test
-# json-web-server-test
-# json-web-server-test
